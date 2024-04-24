@@ -1,8 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:mavi_center/app.dart';
 import 'package:mavi_center/utils/theme/theme.dart';
 
 void main() {
-  runApp(const MyApp());
+  // Todo : Add Widgets Bindings
+  // Todo : Init Local Storage
+  // Todo : Awaits Native Splash
+  // Todo : Initialize Firebase
+  // Todo : Initialize Authentication
+
+  runApp(const App());
 }
 
 class MyApp extends StatelessWidget {
