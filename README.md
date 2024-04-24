@@ -1,8 +1,10 @@
 # mavi_center
 
-A new Flutter project.
+My First actual real world Flutter Project.
 
 ## Getting Started
+
+I Finished my theme related code . Today is the day 4/24/2024 .
 
 This project is a starting point for a Flutter application.
 
